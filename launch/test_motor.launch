@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="livelybot_serial" name="test_motor" type="test_motor" output="screen" />
+</launch> 
